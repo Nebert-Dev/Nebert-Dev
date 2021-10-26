@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nebert-Dev
 - 👀 I’m interested in coding & the overall digital Innovation 
-- 🌱 I’m currently learning AI and data science with a focus on how to laverage machine learning in mobile phone applications.
+- 🌱 I’m currently learning AI and Data Science with a focus on how to laverage machine learning in mobile phone applications.
 - 💞️ I’m looking forward to collaborations on all projects to do with applications developed 
 - 📫 Reach me on ashabanebert@gmail.com
 
